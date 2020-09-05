@@ -1,0 +1,4 @@
+MONGODB= <link database>
+PORT= <express listening localhost>
+HOST_CORS=<http://localhost>
+PORT_CORS=<frontend port execute>
